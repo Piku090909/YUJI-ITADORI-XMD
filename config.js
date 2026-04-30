@@ -30,7 +30,7 @@ MENTION_REPLY: process.env.MENTION_REPLY || "false",
 AUTO_VOICE: process.env.AUTO_VOICE || "false",
 // make true or false for auto voice reply
 MENU_IMAGE_URL: process.env.MENU_IMAGE_URL || "https://files.catbox.moe/q8flgd.jpg",
-// add custom menu and mention reply image url
+// add custom menu and mention reply image url 
 PREFIX: process.env.PREFIX || ".",
 // add your prifix for bot   
 BOT_NAME: process.env.BOT_NAME || "YUJI-ITADORI-XMD",
