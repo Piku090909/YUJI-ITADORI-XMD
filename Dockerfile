@@ -1,8 +1,8 @@
 FROM node:lts-buster
 
-RUN git clone https://github.com/Adeel-Xtech/ADEEL-MD.git /root/adeel-bot
+RUN git clone https://github.com/Piku090909/YUJI-ITADORI-XMD.git /root/YUJI-ITADORI-XMD
 
-WORKDIR /root/adeel-bot
+WORKDIR /root/YUJI-ITADORI-XMD
 
 RUN apt-get update && \
     apt-get install -y ffmpeg imagemagick webp && \
