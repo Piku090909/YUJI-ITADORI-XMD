@@ -1,7 +1,7 @@
 {
   "name": "YUJI-ITADORI-XMD",
   "description": "Javascript WhatsApp bot made by YUJI-ITADORI-XMD",
-  "logo": "https://files.catbox.moe/sx07qa.jpg",
+  "logo": "https://files.catbox.moe/q8flgd.jpg",
   "keywords": ["YUJI-ITADORI-XMD"],
   "success_url": "/",
 
@@ -124,7 +124,7 @@
     "MENU_IMAGE_URL": {
       "description": "add url for mention reply and menu if want.",
       "required": false,
-      "value": "https://files.catbox.moe/sx07qa.jpg"
+      "value": "https://files.catbox.moe/q8flgd.jpg"
     },
     
     "DESCRIPTION": {
